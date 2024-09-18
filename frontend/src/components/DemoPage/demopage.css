@@ -1,0 +1,21 @@
+.demo-page {
+  padding: 20px;
+  max-width: 1800px;
+  margin: 0 auto;
+}
+
+.demo-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.scene-container {
+  border: 1px solid #ccc;
+}
+
+.description {
+  flex: 1;
+  margin-left: 20px;
+}
